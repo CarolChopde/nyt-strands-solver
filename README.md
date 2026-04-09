@@ -195,7 +195,7 @@ Niharika Hariharan · Anagha Puvathingal · Shreya Rajeev · Carol Sachin Chopde
 
 *Department of Computer Engineering, VJTI Mumbai — Academic Year 2025–26*
 
-Project guide: Ms. Noshin Sabuwala
+Project guide: Ms. Noshin Sabuwala 
 
 ---
 
@@ -217,6 +217,3 @@ If you use this work, please cite:
 
 ---
 
-## License
-
-MIT
