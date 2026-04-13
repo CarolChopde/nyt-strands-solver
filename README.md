@@ -199,21 +199,5 @@ Project guide: Ms. Noshin Sabuwala
 
 ---
 
-## Citation
 
-If you use this work, please cite:
-
-```bibtex
-@techreport{hariharan2025strands,
-  title     = {A Hybrid Semantic-Structural Framework for Theme-Constrained
-               Word Discovery in Grid-Based Puzzles},
-  author    = {Hariharan, Niharika and Puvathingal, Anagha and
-               Rajeev, Shreya and Chopde, Carol Sachin},
-  institution = {VJTI Mumbai},
-  year      = {2025},
-  month     = {November}
-}
-```
-
----
 
