@@ -1,4 +1,4 @@
-# 🧩 nyt-strands-solver
+# 🧩 NYT Strands Solver
 
 > A hybrid semantic-structural framework for automatically solving New York Times Strands puzzles — combining LLM reasoning with graph-based path validation.
 
